@@ -1,0 +1,11 @@
+C:\Users\Fujitsu\source\repos\WinFormLoginStart\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Fujitsu\source\repos\WinFormLoginStart\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Fujitsu\source\repos\WinFormLoginStart\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Fujitsu\source\repos\WinFormLoginStart\WindowsFormsApp5\obj\Debug\WinFormLogin.csprojAssemblyReference.cache
+C:\Users\Fujitsu\source\repos\WinFormLoginStart\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.MyWinForm.resources
+C:\Users\Fujitsu\source\repos\WinFormLoginStart\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Login.resources
+C:\Users\Fujitsu\source\repos\WinFormLoginStart\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Fujitsu\source\repos\WinFormLoginStart\WindowsFormsApp5\obj\Debug\WinFormLogin.csproj.GenerateResource.cache
+C:\Users\Fujitsu\source\repos\WinFormLoginStart\WindowsFormsApp5\obj\Debug\WinFormLogin.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\source\repos\WinFormLoginStart\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Fujitsu\source\repos\WinFormLoginStart\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
